@@ -1,0 +1,49 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.8.34511.84
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Arac_Kullanimlari", "Arac_Kullanimlari\Arac_Kullanimlari.csproj", "{08252799-080A-4D0F-8430-C17F821BFE9D}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ComboBoxveListBox", "ComboBoxveListBox\ComboBoxveListBox.csproj", "{1A96F5C0-8A76-403A-B6EC-DE4DFCC22D0F}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Maskedtextbox-Picturebox-Datetimepicker", "Maskedtextbox-Picturebox-Datetimepicker\Maskedtextbox-Picturebox-Datetimepicker.csproj", "{016A3768-3DAC-49E4-BE91-804064D8DEB5}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Ornek-Proje-LoginPaneli", "Checkbox-Radiobutton-Richtecxtboxpanel-Groupbox\Ornek-Proje-LoginPaneli.csproj", "{7787F64C-B206-417D-A83A-879B75DC9A88}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Ucus_Rezervasyon_Sistemi", "Ucus_Rezervasyon_Sistemi\Ucus_Rezervasyon_Sistemi.csproj", "{7D057D8E-6367-4B4D-83C2-FAAA3AB3E91F}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{08252799-080A-4D0F-8430-C17F821BFE9D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{08252799-080A-4D0F-8430-C17F821BFE9D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{08252799-080A-4D0F-8430-C17F821BFE9D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{08252799-080A-4D0F-8430-C17F821BFE9D}.Release|Any CPU.Build.0 = Release|Any CPU
+		{1A96F5C0-8A76-403A-B6EC-DE4DFCC22D0F}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{1A96F5C0-8A76-403A-B6EC-DE4DFCC22D0F}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{1A96F5C0-8A76-403A-B6EC-DE4DFCC22D0F}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{1A96F5C0-8A76-403A-B6EC-DE4DFCC22D0F}.Release|Any CPU.Build.0 = Release|Any CPU
+		{016A3768-3DAC-49E4-BE91-804064D8DEB5}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{016A3768-3DAC-49E4-BE91-804064D8DEB5}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{016A3768-3DAC-49E4-BE91-804064D8DEB5}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{016A3768-3DAC-49E4-BE91-804064D8DEB5}.Release|Any CPU.Build.0 = Release|Any CPU
+		{7787F64C-B206-417D-A83A-879B75DC9A88}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{7787F64C-B206-417D-A83A-879B75DC9A88}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{7787F64C-B206-417D-A83A-879B75DC9A88}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{7787F64C-B206-417D-A83A-879B75DC9A88}.Release|Any CPU.Build.0 = Release|Any CPU
+		{7D057D8E-6367-4B4D-83C2-FAAA3AB3E91F}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{7D057D8E-6367-4B4D-83C2-FAAA3AB3E91F}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{7D057D8E-6367-4B4D-83C2-FAAA3AB3E91F}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{7D057D8E-6367-4B4D-83C2-FAAA3AB3E91F}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {C05FFE57-76F7-4CC5-AD0F-1B834527456F}
+	EndGlobalSection
+EndGlobal
