@@ -6,7 +6,7 @@ Repoyu günaşırı güncelleyip ilerleyen zamanlarda çeşitlendirmeyi ve daha 
 
 ##Projelerin Notları
 
-1-Araç Kullanımları isimli projede yapmış olduğum textboxlara girilen verileri labelda gösterme ve buttona basıldığında messagebox özelliği ile kullanıcıya bilgi verme  
+1-Araç Kullanımları isimli projede yapmış olduğum textboxlara girilen verileri labelda gösterme ve buttona basıldığında messagebox özelliği ile kullanıcıya bilgi verme    
 2-ComboBoxveListBox isimli projede Form1.cs dosyasında textbox'a girilen verinin combobox listesinde gösterilmesi ve textboxa girilen veri sonrası buttona basıldığında listboxa girilen verinin eklenmesi.  
   Dipnot olarak eklemek isterim -> Listboxun altındaki Ekle butonuna tıklanıldığında önceden girmiş olduğumuz verinin listboxa otomatik eklenmesi de var.  
 2.1-Form2.cs dosyasında yapılan pekiştirme amaçlı olup texboxtaki verilerin listboxa eklenmesidir. Dipnot: listboxun üstündeki yazılar görsel amaçlı boş olmaması amaçlı olup girilen verilerin hizalanmadığını belirtmek isterim.  
