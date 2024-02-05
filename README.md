@@ -15,8 +15,8 @@ Repoyu günaşırı güncelleyip ilerleyen zamanlarda çeşitlendirmeyi ve daha 
 4-Basit bir tasarım olup sadece panele checkboxun eklenmesidir. geriye dönük olarak belki veritabanı bağlantısı yaptıktan sonra "şifremi unuttum" yazısında bir güncelleme yapıp şifre değiştirme işlemini gerçekleştirebiliri. belki de yapmam bu kadar basit bir şey için...  
 5-Ucus_Rezervasyon_Sistemi isimli projede (aslında bunu githuba yükleyim ya) düşüncesini oluşturan tatlı tasarım. Yukarıdaki baktığınız veya okuduğunuz diğer projeden ayıran tek şey "Nereden-Nereye" kısmı. Açıklamasını mümkün olduğunca sade yapmak istiyorum.
 Amacım Nereden-Nereye bölümünde comboboxta hazır olan veriler seçildikten sonra bu iki comboboxtaki verilerin yerlerini değiştirecek bir button olması. Anlatımı uzatıp kafa karıştırmak istemiyorum ama olay şu 
-
-label9.Text = comboBox2.Text;
-comboBox2.Text = comboBox1.Text;
-comboBox1.Text = label9.Text;
+  
+label9.Text = comboBox2.Text;  
+comboBox2.Text = comboBox1.Text;  
+comboBox1.Text = label9.Text;  
 bunu anlatmak istersem yazı uzayacak, yaptığım şeyin mantığını da anlatmak istiyorum ama temel düzey bir iş olduğu için "Bakın Amerikayı keşfettim!!!" gibi bir üslupta anlatırım diye tırsıyorum. Neyse efenim işte olay bu, 3 satırlık basit bir kodla iki comboboxın içindeki verilerin yerlerini değiştirdim 
