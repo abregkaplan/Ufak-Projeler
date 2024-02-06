@@ -13,6 +13,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Ornek-Proje-LoginPaneli", "
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Ucus_Rezervasyon_Sistemi", "Ucus_Rezervasyon_Sistemi\Ucus_Rezervasyon_Sistemi.csproj", "{7D057D8E-6367-4B4D-83C2-FAAA3AB3E91F}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Sinav_Notu_Hesaplama", "Sinav_Notu_Hesaplama\Sinav_Notu_Hesaplama.csproj", "{551BC8F5-F37B-4E05-B26E-7D287084D2A0}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -39,6 +41,10 @@ Global
 		{7D057D8E-6367-4B4D-83C2-FAAA3AB3E91F}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{7D057D8E-6367-4B4D-83C2-FAAA3AB3E91F}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{7D057D8E-6367-4B4D-83C2-FAAA3AB3E91F}.Release|Any CPU.Build.0 = Release|Any CPU
+		{551BC8F5-F37B-4E05-B26E-7D287084D2A0}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{551BC8F5-F37B-4E05-B26E-7D287084D2A0}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{551BC8F5-F37B-4E05-B26E-7D287084D2A0}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{551BC8F5-F37B-4E05-B26E-7D287084D2A0}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
