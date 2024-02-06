@@ -1,4 +1,4 @@
-# Ufak Projeler
+# Proje Açıklamaları
 
 İzlemekte olduğum C# ile ilgili videoların sonunda aşama aşama yapmış olduğum projemi tek bir repoda topluyorum.
 Proje notları bölümünde de yaptıklarımla ilgili aşama aşama bilgi vereceğim.
