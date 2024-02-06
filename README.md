@@ -19,4 +19,5 @@ Amacım Nereden-Nereye bölümünde comboboxta hazır olan veriler seçildikten 
 label9.Text = comboBox2.Text;  
 comboBox2.Text = comboBox1.Text;  
 comboBox1.Text = label9.Text;  
-bunu anlatmak istersem yazı uzayacak, yaptığım şeyin mantığını da anlatmak istiyorum ama temel düzey bir iş olduğu için "Bakın Amerikayı keşfettim!!!" gibi bir üslupta anlatırım diye tırsıyorum. Neyse efenim işte olay bu, 3 satırlık basit bir kodla iki comboboxın içindeki verilerin yerlerini değiştirdim 
+bunu anlatmak istersem yazı uzayacak, yaptığım şeyin mantığını da anlatmak istiyorum ama temel düzey bir iş olduğu için "Bakın Amerikayı keşfettim!!!" gibi bir üslupta anlatırım diye tırsıyorum. Neyse efenim işte olay bu, 3 satırlık basit bir kodla iki comboboxın içindeki verilerin yerlerini değiştirdim  
+6-Sinav_Notu_Hesaplama projesinde ise yaptığım işlem çok basit ve yüzeyseldir. Ortalama alacağımdan dolayı double değişkenine atadım, verileri textboxtan alacağım bu yüzden convert.todouble ifadesiyle textboxa girilecek verinin double'a çevrilmesini sağladım.
