@@ -14,8 +14,11 @@ Repoyu günaşırı güncelleyip ilerleyen zamanlarda çeşitlendirmeyi ve daha 
 2.1-Form2.cs dosyasında yapılan pekiştirme amaçlı olup texboxtaki verilerin listboxa eklenmesidir. Dipnot: listboxun üstündeki yazılar görsel amaçlı boş olmaması amaçlı olup girilen verilerin hizalanmadığını belirtmek isterim.  
   
 3-Maskedtextbox-Picturebox-Datetimepicker Form1.cs dosyasında textboxların listboxlara eklenmesi harici picturebox ve datetimepicker kullanıp listboxa eklenmesi var. Pek de mühim bir şey değil yani :)  
+  
 3.1-Form2.cs dosyasında yapılan pekiştirme amaçlı olup textbox ve datetimepickerda girilen verilerin listboxa eklenmesidir.  
+  
 4-Basit bir tasarım olup sadece panele checkboxun eklenmesidir. geriye dönük olarak belki veritabanı bağlantısı yaptıktan sonra "şifremi unuttum" yazısında bir güncelleme yapıp şifre değiştirme işlemini gerçekleştirebiliri. belki de yapmam bu kadar basit bir şey için...  
+  
 5-Ucus_Rezervasyon_Sistemi isimli projede (aslında bunu githuba yükleyim ya) düşüncesini oluşturan tatlı tasarım. Yukarıdaki baktığınız veya okuduğunuz diğer projeden ayıran tek şey "Nereden-Nereye" kısmı. Açıklamasını mümkün olduğunca sade yapmak istiyorum.
 Amacım Nereden-Nereye bölümünde comboboxta hazır olan veriler seçildikten sonra bu iki comboboxtaki verilerin yerlerini değiştirecek bir button olması. Anlatımı uzatıp kafa karıştırmak istemiyorum ama olay şu 
   
@@ -23,4 +26,5 @@ label9.Text = comboBox2.Text;
 comboBox2.Text = comboBox1.Text;  
 comboBox1.Text = label9.Text;  
 bunu anlatmak istersem yazı uzayacak, yaptığım şeyin mantığını da anlatmak istiyorum ama temel düzey bir iş olduğu için "Bakın Amerikayı keşfettim!!!" gibi bir üslupta anlatırım diye tırsıyorum. Neyse efenim işte olay bu, 3 satırlık basit bir kodla iki comboboxın içindeki verilerin yerlerini değiştirdim  
+  
 6-Sinav_Notu_Hesaplama projesinde ise yaptığım işlem çok basit ve yüzeyseldir. Ortalama alacağımdan dolayı double değişkenine atadım, verileri textboxtan alacağım bu yüzden convert.todouble ifadesiyle textboxa girilecek verinin double'a çevrilmesini sağladım.
